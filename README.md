@@ -13,6 +13,12 @@ _The authors and distributors of this code are not responsible for any misuse or
 
 <br>
 
+## Note:
+
+_A web application you are authorised to test is required to test this script._
+
+<br>
+
 ## Screenshots:
 ![Screenshot 2024-11-05 014511](https://github.com/user-attachments/assets/e45a5504-4479-44a5-b70d-ed7c606b3eb6)
 
